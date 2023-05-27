@@ -1,5 +1,5 @@
 Scoreboard Project:
-This project is a simple scoreboard built using HTML, CSS, and JavaScript. The main goal of this project is to demonstrate the use of JavaScript logic and the DOM (Document Object Model) to create an interactive scoreboard.
+This project is a simple scoreboard built using HTML, CSS, and JavaScript. The main goal of this project is to demonstrate the use of JavaScript logic and the DOM (Document Object Model) to create an interactive scoreboard for a solo project through Scrimba's Career Path.
 
 Technologies Used:
 HTML
