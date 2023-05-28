@@ -3,7 +3,7 @@ This project is a simple scoreboard built using HTML, CSS, and JavaScript. The m
 
 Technologies Used:
 HTML
-CSS
+CSS 
 JavaScript
 
 Project Overview:
